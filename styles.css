@@ -5,7 +5,7 @@ body {
 }
 
 .container {
-  max-width: 800px;
+  max-width: 850px;
   margin: 0 auto;
   color: #fff;
   padding: 20px 0;
@@ -61,7 +61,7 @@ a > img {
 .right-group {
   position: absolute;
   right: 0;
-  width: 250px;
+  width: 300px;
 }
 
 .left-group span {
